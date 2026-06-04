@@ -3,7 +3,7 @@
 
 
 
-# 👋 N'GUESSAN Konan Saint-Fourier Onésyme
+# N'GUESSAN Konan Saint-Fourier Onésyme
 
 ### 🛠️ Ingénieur Systèmes & Génie Logiciel · DevOps
 **ARTCI – Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire 🇨🇮**
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧑‍💻 À propos de moi
+## À propos de moi
 
 Ingénieur systèmes, génie logiciel et DevOps avec **plus de 7 ans d'expérience**.
 Je conçois et déploie des architectures applicatives robustes — du monolithe aux microservices, du bare metal au cloud.
@@ -31,11 +31,11 @@ Je conçois et déploie des architectures applicatives robustes — du monolithe
 - 📍 Abidjan, Côte d'Ivoire
 - 📧 fouriersaint@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/konan-n%E2%80%99guessan-b78b15a4/)
-- 🔐 Certifié ISO 27001/27002/27005 · LPIC-1 · Ethical Hacking
+-  Formations: ISO 27001/27002/27005 · LPIC-1 · Ethical Hacking
 
 ---
 
-## 🚀 Projets phares
+## Projets phares
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
@@ -46,7 +46,7 @@ Je conçois et déploie des architectures applicatives robustes — du monolithe
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 ```text
 Langages     Python · JavaScript · Perl · Bash · Dart/Flutter
@@ -60,16 +60,16 @@ Cloud        Virtualisation · Architecture 2-tiers / 3-tiers · Microservices
 
 ---
 
-## 🎓 Formation & Certifications
+## Formation & Certifications
 
-- 🎓 **Master IT** – Développement Logiciel · IBM-T Abidjan (2020)
-- 🎓 **Licence SIGL** – Systèmes Informatiques & Génie Logiciel · ESATIC (2016)
-- 📜 LPIC-1 Linux Administrator · Docker DevOps (Udemy) · Ethical Hacking (Udemy)
-- 📜 Flutter & Dart · Python Advanced · Smart Africa Digital Academy (2025)
+- **Master IT** – Développement Logiciel · IBM-T Abidjan (2020)
+- **Licence SIGL** – Systèmes Informatiques & Génie Logiciel · ESATIC (2016)
+- LPIC-1 Linux Administrator · Docker DevOps (Udemy) · Ethical Hacking (Udemy)
+- Flutter & Dart · Python Advanced · Smart Africa Digital Academy (2025)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=saint0101&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
