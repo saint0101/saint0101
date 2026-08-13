@@ -67,12 +67,13 @@ Architecture  REST · Microservices · CI/CD · 2-tiers · 3-tiers
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saint0101&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint0101&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saint0101&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint0101&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="150"/>
 
 </div>
 
